@@ -209,7 +209,7 @@
       </div>
       <div class="link-group">
         <a href="https://github.com/Hugosham?tab=overview&from=2024-09-01&to=2024-09-30" class="portfolio">Github</a>
-        <img src="C:\Users\shamm\Downloads\WhatsApp Image 2025-02-17 at 3.25.58 AM.jpeg" alt="Profile Photo" class="portfolio">
+        
         <a href="https://www.linkedin.com/in/hugo-sham-2524b8232/" class="blog">LinkedIn</a>
       </div>
     </div>
