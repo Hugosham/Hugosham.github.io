@@ -305,7 +305,7 @@
 
       <div class="dividing-line"></div><br>
 
-    <div class="right>
+ 
       <div class="experience">EXPERIENCE/WORKS</div><br>
         <div class="ex-tile">
           <div class="ex-content">
