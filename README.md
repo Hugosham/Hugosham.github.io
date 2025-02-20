@@ -302,10 +302,6 @@
           </div>
         </div>
       </div>
-
-      <div class="dividing-line"></div><br>
-
- 
       <div class="experience">EXPERIENCE/WORKS</div><br>
         <div class="ex-tile">
           <div class="ex-content">
